@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CVgenerator"
+    }
+  },
+  "defaultProject": "CVgenerator",
+  "cli": {
+    "analytics": "402ba50e-3b4a-4676-97e5-aba9ab98a0de"
+  }
 }
